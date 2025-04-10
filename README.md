@@ -39,7 +39,7 @@ Este repositório contém o material e os códigos desenvolvidos durante a aula 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu_usuario/nome_do_repositorio.git](https://github.com/LevyCostta/Analisando_Dados_ComPython.git)
+   git clone [https://github.com/LevyCostta/Analisando_Dados_ComPython.git]
 
 2. Navegue até o diretório do projeto:
 cd Analisando_Dados_ComPython
